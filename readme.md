@@ -16,4 +16,5 @@ Color: Red:
 If the user is not found they are added to the results list and marked as 'User Not Found'
 
 [See it working on GitHub Pages](https://optimized4u.github.com/twitch-tv)
+
 [View on CodePen](https://codepen.io/taramouse/pen/wWMJOx)
