@@ -5,6 +5,9 @@ i {
     -webkit-transition: none !important;
     transition: none !important;
 }
+.footer {
+  padding: 10px 0px 20px 0px;
+}
 
 
 
