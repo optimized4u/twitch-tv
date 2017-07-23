@@ -8,7 +8,7 @@ $(document).ready(function () {
   }
 
   function getUserData(username) {
-    $.getJSON("https://api.twitch.tv/kraken/streams/" + username + "?callback=?", function (data) {
+    $.getJSON("https://wind-bow.gomix.me/" + username + "?callback=?", function (data) {
       if (data.status === 422) {
         console.log(username + "Unavailable");
         userUnavailable(username);
